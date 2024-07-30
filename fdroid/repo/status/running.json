@@ -1,0 +1,8 @@
+{
+  "/etc/issue.net": "Ubuntu 22.04.4 LTS",
+  "commandLine": [
+    "/usr/bin/fdroid signindex"
+  ],
+  "startTimestamp": 1722357399000,
+  "subcommand": "signindex"
+}
