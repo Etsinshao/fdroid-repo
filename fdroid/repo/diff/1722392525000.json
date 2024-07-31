@@ -1,1 +1,1 @@
-{"repo": {"icon": {"en-US": {"name": "/icons/icon.png"}}, "timestamp": 1722392847000}}
+{"repo": {"icon": {"en-US": {"name": "/icons/icon.png"}}, "timestamp": 1722393212000}, "packages": {"app.mihon": {"metadata": {"sourceCode": "https://github.com/mihonapp/mihon", "webSite": "https://mihon.app", "authorName": "mihonapp"}}, "cn.toside.music.mobile": {"metadata": {"sourceCode": "https://github.com/lyswhut/lx-music-mobile", "webSite": "https://lxmusic.toside.cn", "authorName": "lyswhut"}}}}
