@@ -1,1 +1,7 @@
+Graphics
+Internet
+Multimedia
+Reading
+System
+Writing
 fdroid
