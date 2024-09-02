@@ -1,1 +1,1 @@
-{"/etc/issue.net":"Ubuntu 22.04.4 LTS","commandLine":["/usr/bin/fdroid signindex"],"endTimestamp":1723953116583,"signed":["repo/index-v1.json","repo/entry.json"],"startTimestamp":1723953114000,"subcommand":"signindex"}
+{"/etc/issue.net":"Ubuntu 22.04.4 LTS","commandLine":["/usr/bin/fdroid signindex"],"endTimestamp":1725273847800,"signed":["repo/index-v1.json","repo/entry.json"],"startTimestamp":1725273846000,"subcommand":"signindex"}
