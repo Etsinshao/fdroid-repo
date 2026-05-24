@@ -1,1 +1,1 @@
-{"/etc/issue.net":"Ubuntu 24.04.4 LTS","commandLine":["/opt/hostedtoolcache/Python/3.14.5/x64/bin/fdroid signindex"],"endTimestamp":1779591260802,"signed":["repo/index-v1.json","repo/entry.json"],"startTimestamp":1779591259000,"subcommand":"signindex"}
+{"/etc/issue.net":"Ubuntu 24.04.4 LTS","commandLine":["/opt/hostedtoolcache/Python/3.14.5/x64/bin/fdroid signindex"],"endTimestamp":1779592441626,"signed":["repo/index-v1.json","repo/entry.json"],"startTimestamp":1779592439000,"subcommand":"signindex"}
