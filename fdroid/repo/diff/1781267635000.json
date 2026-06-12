@@ -1,1 +1,1 @@
-{"repo": {"timestamp": 1781267644000}}
+{"repo": {"timestamp": 1781268593000}, "packages": {"eu.kanade.tachiyomi": {"metadata": {"lastUpdated": 1781261535000, "preferredSigner": "c4885e15ff50624644c93ae2cbdef91db47a97375ce420806e0d665541ac6846"}, "versions": {"0c25c39e89c0631b4c3eebd8353c68105ffae1e022ca78dbe0c81f5331afc93b": null, "e60dddca93c979dda83ab99a4015de9b3e51ab6f8efc3f00bff23a25df07444f": {"added": 1781261535000, "file": {"name": "/Tachiyomi-v0.15.3.apk"}}}}}}
